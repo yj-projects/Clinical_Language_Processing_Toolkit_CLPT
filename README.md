@@ -8,7 +8,7 @@ The CLPT is currently in active development. The current published version mainl
 
 **Official Repo**
 
-Please refer to the official repo for latest version of the package/codes development.
+Please refer to the official repo [here](https://github.com/inQbator-eviCore/clpt) for latest version of the package/codes development.
 
 **Publication**
 
